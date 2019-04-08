@@ -14,7 +14,7 @@ Project UAS
 <hr/>
 
 ## Demo Programs
-<img src="https://github.com/zainurramdhan/Project-UAS/blob/master/img/6.jpg" width="250" height="350" />
+<img src="https://github.com/zainurramdhan/Project-UAS/blob/master/img/6.jpg" width="650" height="350" />
 
 ### Klik Untuk melihat sourcodenya Lebih Lengkapnya [--> ](https://github.com/zainurramdhan/Project-UAS/tree/master/uas)
 ### Klik Untuk melihat Run Programnya Lebih Lengkapnya [--> ](https://github.com/zainurramdhan/Project-UAS/tree/master/img)
